@@ -7,5 +7,5 @@ The purpose of this repository is to provide students with comprehensive solutio
 for efficiency exercises commonly found in Open University examinations. By studying and practicing
 these exercises, students can improve their understanding of algorithms and problem-solving techniques.
 
-#Importan Note
+#Important Note
 To maximaize the usage click ctrl f and write the name of function you need.
